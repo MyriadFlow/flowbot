@@ -1,4 +1,4 @@
-# Eliza
+# FlowBot
 
 ## Edit the character files
 
